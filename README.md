@@ -5,7 +5,7 @@
     </p>
     <p align="center">
     <a href="https://github.com/Tirthraj-Raval">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1600&pause=100&multiline=true&width=500&height=100&css=.typing-svg line { text-align: center; }&lines=Tirthraj+Raval;Currently+learning+Web Development+,+Cloud Computing+%7C+CSE;Open+to+collaborating+on+interesting+and+innovative+projects;Learning+Blockchain+Technology+%7C+DApps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+👋;I'm+Tirthraj+Raval!;Web+Development+Enthusiast+🌐;Cloud+Explorer+☁️;OS+%26+Networking+Nerd+🖥️;Always+Learning+Something+New+🚀" />
     </a>
     </p>
 <br>
