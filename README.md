@@ -5,7 +5,7 @@
     </p>
     <p align="center">
     <a href="https://github.com/Tirthraj-Raval">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+👋;I'm+Tirthraj+Raval!;Web+Development+Enthusiast+🌐;Cloud+Explorer+☁️;OS+%26+Networking+Nerd+🖥️;Always+Learning+Something+New+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=007CF0&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+👋;I'm+Tirthraj+Raval!;Web+Development+Enthusiast+🌐;Cloud+Explorer+☁️;OS+%26+Networking+Nerd+🖥️;Always+Learning+Something+New+🚀" />
     </a>
     </p>
 <br>
@@ -13,6 +13,8 @@
     <a href="https://www.linkedin.com/in/tirthraj-raval-773422263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    
+    
  
 </p>
 
@@ -64,7 +66,31 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tirthraj-Raval)
 
 
-<details>
+
+
+<p>
+    <i>
+        For any inquiries or oppurtunities, please feel free to contact me at:<br>
+        <a href="mailto:tirthrajraval1604@gmail.com">tirtrajraval1604@gmail.com</a><br>
+        <a href="tirthraj.r@ahduni.edu.in">tirthraj.r@ahduni.edu.in</a><br>
+    </i>
+</p>   
+
+
+Here are some facts about me:
+
+- 🔭 I’m currently working on My Personal Projects.
+- 🌱 I’m currently learning Advanced Backened and Blockchain Technology
+- 💬 Ask me about: Web Development 😊
+- 📫 How to reach me: Throgh Linked In 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Am very enthusiast about cars.
+
+<div style="margin-bottom : 80px"></div>
+
+<!-- Tirthraj-Raval/Tirthraj-Raval is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. -->
+
+
 <p align="center">
   <a href="https://github.com/Tirthraj-Raval">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tirthraj-Raval&theme=transparent" />
@@ -77,41 +103,7 @@
   </a>
 
 </p>
-</details>
-
-
-
-<p>
-    <i>
-        For any inquiries or oppurtunities, please feel free to contact me at:<br>
-        <a href="mailto:tirthrajraval1604@gmail.com">tirtrajraval1604@gmail.com</a><br>
-        <a href="tirthraj.r@ahduni.edu.in">tirthraj.r@ahduni.edu.in</a><br>
-    </i>
-</p>
-
-    
-<p align="center">
-  <a href="https://github.com/Tirthraj-Raval">
-    <img src="https://komarev.com/ghpvc/?username=Tirthraj-Raval&color=yellow&style=round)" />
-  </a>
-</p>    
-
-
-Here are some facts about me:
-
-- 🔭 I’m currently working on My Personal Projects.
-- 🌱 I’m currently learning Advanced Backened and Blockchain Technology
-- 🤔 I’m looking for help with how can i start learning ML?
-- 💬 Ask me about: Web Development 😊
-- 📫 How to reach me: Throgh Linked In 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Am very enthusiast about cars.
-
-<div style="margin-bottom : 80px"></div>
-
-<!-- Tirthraj-Raval/Tirthraj-Raval is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. -->
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthraj-Raval&hide=html,jupyter%20notebook&langs_count=15&layout=compact&theme=radical&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tirthraj-Raval&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=your-Tirthraj-Raval) [![wakatime](https://wakatime.com/badge/user/cef5ab56-b2e8-4d44-b0b1-460f56ab6126.svg)](https://wakatime.com/@cef5ab56-b2e8-4d44-b0b1-460f56ab6126)
