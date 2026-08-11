@@ -72,7 +72,6 @@
     <i>
         For any inquiries or oppurtunities, please feel free to contact me at:<br>
         <a href="mailto:tirthrajraval1604@gmail.com">tirtrajraval1604@gmail.com</a><br>
-        <a href="tirthraj.r@ahduni.edu.in">tirthraj.r@ahduni.edu.in</a><br>
     </i>
 </p>   
 
@@ -80,9 +79,9 @@
 Here are some facts about me:
 
 - 🔭 I’m currently working on My Personal Projects.
-- 🌱 I’m currently learning Advanced Backened and Blockchain Technology
+- 🌱 I’m currently learning Advanced Backend and Blockchain Technology
 - 💬 Ask me about: Web Development 😊
-- 📫 How to reach me: Throgh Linked In 
+- 📫 How to reach me: Through Linked In 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Am very enthusiast about cars.
 
@@ -104,6 +103,7 @@ Here are some facts about me:
 
 </p>
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthraj-Raval&hide=html,jupyter%20notebook&langs_count=15&layout=compact&theme=radical&hide_border=true)
+<!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthraj-Raval&hide=html,jupyter%20notebook&langs_count=15&layout=compact&theme=radical&hide_border=true) --->
 
-![](https://komarev.com/ghpvc/?username=your-Tirthraj-Raval) [![wakatime](https://wakatime.com/badge/user/cef5ab56-b2e8-4d44-b0b1-460f56ab6126.svg)](https://wakatime.com/@cef5ab56-b2e8-4d44-b0b1-460f56ab6126)
+![](https://komarev.com/ghpvc/?username=Tirthraj-Raval)
+<!-- [![wakatime](https://wakatime.com/badge/user/cef5ab56-b2e8-4d44-b0b1-460f56ab6126.svg)](https://wakatime.com/@cef5ab56-b2e8-4d44-b0b1-460f56ab6126) -->
